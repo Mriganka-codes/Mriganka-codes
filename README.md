@@ -1,4 +1,4 @@
-# 👋 Hi there!
+**Hello!**
 <img width="576" height="324" alt="Untitled" src="https://github.com/user-attachments/assets/bfb562ec-3e22-4d5d-87ac-b51b4970a564" />
 
 Welcome to my github!  
