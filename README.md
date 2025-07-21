@@ -1,4 +1,5 @@
 **Hello!**  
+<img width="576" height="324" alt="Untitled" src="https://github.com/user-attachments/assets/af198fcf-fbd8-4eb7-b9af-048e1f42192a" />
 
 Welcome to my github!  
 I am a **B.Tech Graduate in Computer Science and Engineering** from **Gauhati University, Assam, India**.  
